@@ -118,7 +118,7 @@ https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-conta
 
 ### Quality of Service
 
-There are three teirs, in decreasing order of priority.
+There are three tiers, in decreasing order of priority.
 
 * Guaranteed
 * Burstable
